@@ -6,6 +6,6 @@ Website provides information on Covid-19 data in India ,Weather in Bhubaneswar a
 
 Created by Bharat,Dhiren,Naseer and Nitish. 
 
-#IIT BHUBANESWAR
+# IIT BHUBANESWAR
 
 
